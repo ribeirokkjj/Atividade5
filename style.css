@@ -2,9 +2,6 @@
 body {
     display: flex;
 }
-#recentOrders {
-    margin-left: 500px;
-}
 .boxRobot{
     background-color: #002ba0;
     display: flex;
@@ -33,12 +30,18 @@ body {
 }
 .borderOrganization {
         background-color: #d9e9fd;
+        display: flex;
         border-radius: 15px;
+        margin-left: 15px;
 }
 #robotStart{
     height: 300px;
-    width: 950px;
-    display: flex;
+    width: 900px;
+}
+
+#recentOrders {
+    height: 300px;
+    width: 1000px;
 }
 
 #robotImg{
@@ -56,6 +59,7 @@ body {
     background-color: #d9e9fd;   
     width: 500px;
     height: 100px;
+
 }
 
 .text {
