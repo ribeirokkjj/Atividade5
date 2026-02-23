@@ -12,7 +12,7 @@ body {
     width: 200px;
     border-radius: 60px;
     padding: 10px;
-    margin-top: 70px;
+    margin-top: 30px;
     margin-left: 20px;
 }
 .arrowHelp{
@@ -49,6 +49,7 @@ body {
 }
 .titleStart{
     color: #002ba0; 
+    margin-left: 15px;
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -72,4 +73,5 @@ body {
     height: 30px;
     margin-left: 200px;
     margin-top: -44px;
+    color: #002ba0;
 }
