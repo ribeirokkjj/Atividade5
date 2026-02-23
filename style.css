@@ -9,7 +9,7 @@ body {
     width: 200px;
     border-radius: 60px;
     padding: 10px;
-    margin-top: 70px;
+    margin-top: 30px;
     margin-left: 20px;
 }
 .arrowHelp{
@@ -25,7 +25,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     display: flex;
-    margin-top: 7;
+    margin-top: 7px;
+    margin-left: 10px;
 
 }
 .borderOrganization {
@@ -47,10 +48,11 @@ body {
 #robotImg{
     width: 200px;
     height: 250px;
-
+    margin-top: 10px;
 }
 .titleStart{
     color: #002ba0; 
+    margin-left: 15px;
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -69,4 +71,11 @@ body {
 #list {
     background-color: white;
     width: 400px;
+}
+#setaImg{
+    width: 30px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: -44px;
+    color: #002ba0;
 }
