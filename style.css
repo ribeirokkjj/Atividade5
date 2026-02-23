@@ -1,6 +1,9 @@
 
-.borders {
-   
+body {
+    display: flex;
+}
+#recentOrders {
+    margin-left: 500px;
 }
 .boxRobot{
     background-color: #002ba0;
@@ -28,14 +31,16 @@
     margin-top: 7;
 
 }
-#robotStart{
-    background-color: #d9e9fd;
-    display: flex;
-    height: 300px;
-    width: 1150px;
-    border-radius: 15px;
-
+.borderOrganization {
+        background-color: #d9e9fd;
+        border-radius: 15px;
 }
+#robotStart{
+    height: 300px;
+    width: 950px;
+    display: flex;
+}
+
 #robotImg{
     width: 200px;
     height: 250px;
