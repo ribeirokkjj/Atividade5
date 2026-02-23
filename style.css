@@ -1,6 +1,21 @@
+/*General*/
 
 body {
     display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.borderOrganization {
+        background-color: #d9e9fd;
+        border-radius: 15px;
+        margin-left: 15px;
+}
+
+/* Part1 */
+
+#robotImg{
+    width: 200px;
+    height: 250px;
+    margin-top: 10px;
 }
 .boxRobot{
     background-color: #002ba0;
@@ -27,47 +42,26 @@ body {
     display: flex;
     margin-top: 7px;
     margin-left: 10px;
-
-}
-.borderOrganization {
-        background-color: #d9e9fd;
-        display: flex;
-        border-radius: 15px;
-        margin-left: 15px;
 }
 #robotStart{
     height: 300px;
     width: 900px;
-}
-
-#recentOrders {
-    height: 300px;
-    width: 1000px;
-}
-
-#robotImg{
-    width: 200px;
-    height: 250px;
-    margin-top: 10px;
-}
-.titleStart{
-    color: #002ba0; 
-    margin-left: 15px;
-}
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.borders {
-    background-color: #d9e9fd;   
-    width: 500px;
-    height: 100px;
-
-}
-
-.text {
     display: flex;
 }
 
+/* Part2 */
+
+#recentOrders {
+    height: 300px;
+    width: 600px;
+}
+.titleStart{
+    color: #002ba0;
+    margin-left: 15px;
+}
+.text {
+    display: flex;
+}
 #list {
     background-color: white;
     width: 400px;
