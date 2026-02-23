@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .borders {
    
@@ -36,3 +37,23 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #002ba0; 
 }
+=======
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.borders {
+    background-color: #d9e9fd;   
+    width: 500px;
+    height: 100px;
+}
+
+.text {
+    display: flex;
+}
+
+#list {
+    background-color: white;
+    width: 400px;
+}
+>>>>>>> 764261cb029540fb658fdab7fcd15c3a1a4c07a3
