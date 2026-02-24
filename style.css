@@ -155,3 +155,16 @@ body {
 .titleText{
   margin-bottom: -10px;
 }
+#shopStart{
+    width: 855px;
+    height: 400px;
+    margin-top: 340px;
+    margin-left: -1514px;
+    padding: 20px;
+    display: flex;
+}
+#tituloQ2{
+    color: #002ba0;
+    margin-left: -1500px;
+    margin-top: -410px;
+}
