@@ -65,6 +65,18 @@ body {
 #list {
     background-color: white;
     width: 400px;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+#allOrders{
+    margin-left: 200px;
+}
+#listText1{
+    margin-left: 50px;
+}
+#listText{
+    margin-left: 20px;
 }
 #setaImg{
     width: 30px;
@@ -125,5 +137,14 @@ body {
 }
 .helpMenu{
     color: white;
-    margin-top: 100px
+    margin-top: 100px;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
 }
