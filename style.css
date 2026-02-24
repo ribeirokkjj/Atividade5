@@ -61,6 +61,7 @@ body {
 }
 .text {
     display: flex;
+    height: 42px;
 }
 #list {
     background-color: white;
@@ -70,7 +71,6 @@ body {
     margin-bottom: 10px;
 }
 #allOrders{
-    margin-left: 200px;
 }
 #setaImg{
     width: 30px;
@@ -126,17 +126,21 @@ body {
 }
 .green{
     background-color: green;
-    padding: 4px;
-    border-radius: 8px;
-    width: 90px;
-    text-align: center;
-}
-.yellow{
-    background-color: yellow;
     padding: 7px;
     border-radius: 8px;
     width: 90px;
     text-align: center;
+    color: white;
+    height: 20px;
+}
+.yellow{
+    background-color: rgb(214, 214, 0);
+    padding: 7px;
+    border-radius: 8px;
+    width: 90px;
+    text-align: center;
+    color: white;
+       height: 20px;
 }
 .red{
     background-color: red;
@@ -145,12 +149,15 @@ body {
     border-radius: 8px;
     width: 90px;
     text-align: center;
+    color: white;
+       height: 20px;
 }
 .listText1{
     margin-left: 50px;
 }
 .listText{
     margin-left: 20px;
+    margin-top: 10px;
 }
 .titleText{
   margin-bottom: -10px;
