@@ -250,3 +250,24 @@ body {
 }
 #textoImg1{
 }
+
+/* Part4 */
+#part4textLeft {
+    color: #002ba0;
+}
+#part4textRight {
+    color: #002ba0;
+    margin-left: 320px;
+    margin-top: -44px;
+}
+/* As 4 caixinhas de mensagens */
+#part4MsgText {
+    font-size: 80%;
+}
+#part4Date {
+    font-size: 70%;
+    margin-left: 450px;
+}
+.part4Block{
+    background-color: white;
+}
