@@ -196,7 +196,7 @@ body {
 }
 #shopStart{
     width: 855px;
-    height: 400px;
+    height: 300px;
     margin-top: 340px;
     margin-left: -1514px;
     padding: 20px;
@@ -206,4 +206,35 @@ body {
     color: #002ba0;
     margin-left: -1500px;
     margin-top: -410px;
+}
+
+/* Part4 */
+
+/* Borda e parte de cima */
+#part4Border{
+    margin-left: -600px;
+    margin-top: 340px;
+    width: 560px;
+    height: 320px;
+    padding: 10px;
+}
+#part4textLeft {
+    color: #002ba0;
+    margin-left: 10px;
+}
+#part4textRight {
+    color: #002ba0;
+    margin-left: 320px;
+    margin-top: -44px;
+}
+/* As 4 caixinhas de mensagens */
+#part4MsgText {
+    font-size: 80%;
+}
+#part4Date {
+    font-size: 70%;
+    margin-left: 450px;
+}
+.part4Block{
+    background-color: white;
 }
