@@ -252,8 +252,17 @@ body {
 }
 
 /* Part4 */
+/* Borda e parte de cima */
+#part4Border{
+    margin-left: 1120px;
+    margin-top: -300px;
+    width: 560px;
+    height: 320px;
+    padding: 10px;
+}
 #part4textLeft {
     color: #002ba0;
+    margin-left: 10px;
 }
 #part4textRight {
     color: #002ba0;
