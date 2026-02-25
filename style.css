@@ -27,22 +27,21 @@ body {
     display: flex;
     margin-top: 7px;
     margin-left: 10px;
-
 }
 .borderOrganization {
         background-color: #d9e9fd;
         display: flex;
         border-radius: 15px;
-        margin-left: 15px;
+        margin-left: 25px;
 }
 #robotStart{
     height: 300px;
-    width: 900px;
+    width: 1200px;
 }
 
 #recentOrders {
     height: 300px;
-    width: 1000px;
+    width: 600px;
 }
 
 #robotImg{
